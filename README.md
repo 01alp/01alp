@@ -101,6 +101,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/alperbalaban/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="mailto:alp01code@gmail.com"><img align="center" src="https://cdn.icon-icons.com/icons2/243/PNG/64/gmail_26709.png" alt="email" height="50" width="50" /></a> 
  </p>
 
 
@@ -115,5 +116,5 @@
 
 ----------------------------------------------------------------------
 
-Last Edited on: 29/4/2024
+Last Edited on: 19/09/2024
 
