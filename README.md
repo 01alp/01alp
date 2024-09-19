@@ -36,7 +36,7 @@
 
 - 💬 Ask me about **JavaScript, react, react-native, nodejs**
 
-- 📫 Feel free to reach me out **01alp@gmail.com**  ![enter image description here](https://cdn.icon-icons.com/icons2/1066/PNG/96/GMail_icon-icons.com_76886.png)
+- 📫 Feel free to reach me out **alp01code@gmail.com**  ![enter image description here](https://cdn.icon-icons.com/icons2/1066/PNG/96/GMail_icon-icons.com_76886.png)
 
 <!--Intro end-->
 
