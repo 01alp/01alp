@@ -100,8 +100,8 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/alperbalaban/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/243/PNG/64/linkedin_26689.png" alt="linkedin" height="64" width="64" /></a>
-  <a href="mailto:alp01code@gmail.com"><img align="center" src="https://cdn.icon-icons.com/icons2/243/PNG/64/gmail_26709.png" alt="email" height="64" width="64" /></a> 
+<a href="https://www.linkedin.com/in/alperbalaban/" target="blank"><img align="center" src="https://s.magecdn.com/social/tc-linkedin.svg" alt="linkedin" height="64" width="64" /></a>
+  <a href="mailto:alp01code@gmail.com"><img align="center" src="https://s.magecdn.com/social/tc-mail.svg" alt="email" height="64" width="64" /></a> 
  </p>
 
 
